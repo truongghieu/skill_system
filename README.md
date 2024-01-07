@@ -22,5 +22,5 @@
     3. icon
     4. sound
 <!-- show img -->
-![image](.\img\skilldatat.JPG)
+![image](/img/skilldatat.JPG)
     
