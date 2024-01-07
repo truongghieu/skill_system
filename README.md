@@ -10,7 +10,7 @@
 * Configure properties like cooldowns, effects, sounds
 * Extendable framework that can be customized as needed
 
-![image](\img\skillExample.JPG)
+![image](/img/skillExample.JPG)
 
 ## 1. To create more skill
     inherit from SkillController.cs 
