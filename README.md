@@ -6,6 +6,7 @@
     It can be used in any game
     It is easy to use
     It is easy to extend
+![image](\img\skillExample.JPG)
 
 ## 1. To create more skill
     inherit from SkillController.cs 
@@ -23,4 +24,6 @@
     4. sound
 <!-- show img -->
 ![image](/img/skilldatat.JPG)
+## 3. Note
+    1. Implement skill sound in SkillController.cs
     
